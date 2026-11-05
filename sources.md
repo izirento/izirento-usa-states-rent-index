@@ -1,4 +1,4 @@
-# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: sources
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware: sources
 
 Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. Facts were read on 2026-11-05. Values are our own wording of the source; check the primary source before relying on a value.
 
@@ -38,9 +38,13 @@ Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. F
 | deposit | Connecticut: deposit return | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
 | deposit | Connecticut: escrow | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
 | deposit | Connecticut: interest | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
+| deposit | Delaware: deposit cap | Delaware Code Online (Delaware General Assembly) | [link](https://delcode.delaware.gov/title25/c055/index.html) |  |
+| deposit | Delaware: escrow account | Delaware Code Online (Delaware General Assembly) | [link](https://delcode.delaware.gov/title25/c055/index.html) |  |
+| deposit | Delaware: deposit return | Delaware Code Online (Delaware General Assembly) | [link](https://delcode.delaware.gov/title25/c055/index.html) |  |
+| deposit | Delaware: pet deposit and application fee | Delaware Code Online (Delaware General Assembly) | [link](https://delcode.delaware.gov/title25/c055/index.html) |  |
 
 ## Notes on sources
 
-- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes, Maine Revisor of Statutes, Vermont General Assembly, Maryland General Assembly, Michigan Legislature, Ohio Laws (codes.ohio.gov) and Connecticut General Assembly (General Statutes with 2026 Supplement), as read on the check date; later amendments are not included.
+- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes, Maine Revisor of Statutes, Vermont General Assembly, Maryland General Assembly, Michigan Legislature, Ohio Laws (codes.ohio.gov) Connecticut General Assembly (General Statutes with 2026 Supplement) and Delaware Code Online, as read on the check date; later amendments are not included.
 
 Licence: CC BY 4.0 for the compilation, see `LICENSE.md`. This is information, not legal advice.

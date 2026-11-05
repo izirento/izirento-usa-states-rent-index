@@ -13,6 +13,7 @@ Anyone reusing this dataset must credit IziRento (Leonid Gorok, https://izirento
 1. Rules and guidance: summarised in our own words from the official sources named below. Texts of laws are cited by article and linked, not reproduced. Each source is subject to its own terms; see the links in `sources.md`.
    - Arizona State Legislature: https://www.azleg.gov/ars/33/01321.htm
    - Connecticut General Assembly: https://www.cga.ct.gov/2026/sup/chap_831.htm
+   - Delaware Code Online (Delaware General Assembly): https://delcode.delaware.gov/title25/c055/index.html
    - Iowa Legislature: https://www.legis.iowa.gov/docs/code/562A.12.pdf
    - Maine Revisor of Statutes: https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html
    - Maryland General Assembly: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false
@@ -28,4 +29,4 @@ Anyone reusing this dataset must credit IziRento (Leonid Gorok, https://izirento
 
 ## Suggested citation
 
-United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: rent and landlord rules index 2026
+United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware: rent and landlord rules index 2026

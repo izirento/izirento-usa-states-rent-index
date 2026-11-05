@@ -1,6 +1,6 @@
-# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: rent and landlord rules index 2026
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware: rent and landlord rules index 2026
 
-Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
+Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
 
 - Version: 1.0
 - Facts checked: 2026-11-05
@@ -15,7 +15,7 @@ The data is provided as is, without any liability. We only collect and organise 
 
 ## Scope and limits
 
-Security deposit rules for residential leases in eleven US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226, Minnesota Statutes § 504B.178, Iowa Code § 562A.12, Missouri Revised Statutes § 535.300 and Maine Revised Statutes Title 14 § 6033, 9 V.S.A. § 4461 (Vermont), Maryland Real Property § 8-203 and Michigan MCL 554.602 and 554.609, Ohio Revised Code 5321.16 and Connecticut General Statutes § 47a-21. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
+Security deposit rules for residential leases in twelve US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226, Minnesota Statutes § 504B.178, Iowa Code § 562A.12, Missouri Revised Statutes § 535.300 and Maine Revised Statutes Title 14 § 6033, 9 V.S.A. § 4461 (Vermont), Maryland Real Property § 8-203 and Michigan MCL 554.602 and 554.609, Ohio Revised Code 5321.16 Connecticut General Statutes § 47a-21 and 25 Del. C. § 5514. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
 
 ## Key facts
 
@@ -55,10 +55,14 @@ Security deposit rules for residential leases in eleven US states: Arizona Revis
 | deposit | Connecticut: deposit return | Within 21 days after the tenancy ends, or 15 days after receiving the forwarding address if later, the landlord must return the deposit with accrued interest, or the balance with an itemized statement of damages; violation makes the landlord liable for twice the deposit (CGS § 47a-21(d)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
 | deposit | Connecticut: escrow | The landlord must immediately place deposits in an escrow account at a financial institution in Connecticut and tell the tenant in writing, within 30 days, the amount held and the institution's name and address (CGS § 47a-21(h)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
 | deposit | Connecticut: interest | Landlords must pay interest on deposits at no less than the yearly deposit index set by the Banking Commissioner, paid on each tenancy anniversary or credited to rent (CGS § 47a-21(i)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
+| deposit | Delaware: deposit cap | No security deposit above 1 month's rent for leases of 1 year or more, or for month-to-month tenancies after 1 year; the cap does not apply to furnished units (25 Del. C. § 5514(a)). | [Delaware Code Online (Delaware General Assembly)](https://delcode.delaware.gov/title25/c055/index.html) |
+| deposit | Delaware: escrow account | Deposits must be held in a designated security deposit escrow account at a federally insured bank with a deposit office in Delaware, and the landlord must disclose its location (25 Del. C. § 5514(b)). | [Delaware Code Online (Delaware General Assembly)](https://delcode.delaware.gov/title25/c055/index.html) |
+| deposit | Delaware: deposit return | Within 20 days after the lease ends the landlord must return the deposit or give an itemized list of damages with repair costs and pay the balance; failure means the tenant is entitled to double the amount wrongfully withheld (25 Del. C. § 5514(e)-(g)). | [Delaware Code Online (Delaware General Assembly)](https://delcode.delaware.gov/title25/c055/index.html) |
+| deposit | Delaware: pet deposit and application fee | A pet deposit may not exceed 1 month's rent; an application fee may not exceed the greater of 10% of monthly rent or $50 (25 Del. C. § 5514(d), (i)). | [Delaware Code Online (Delaware General Assembly)](https://delcode.delaware.gov/title25/c055/index.html) |
 
 ## English (US)
 
-**United States, more states.** Open data on residential security deposits in Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut, with a link to the official statute for each value.
+**United States, more states.** Open data on residential security deposits in Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware, with a link to the official statute for each value.
 
 *Data is provided as is, without any liability. We only organize what official sources publish. Check every value against the primary source.*
 
@@ -95,7 +99,7 @@ Details: see the table above and `sources.md`.
 
 ## Citation
 
-Gorok, L. (2026). *United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
+Gorok, L. (2026). *United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
 
 ## Attribution
 
