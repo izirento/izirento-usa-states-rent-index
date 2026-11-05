@@ -1,6 +1,6 @@
-# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: rent and landlord rules index 2026
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: rent and landlord rules index 2026
 
-Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
+Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
 
 - Version: 1.0
 - Facts checked: 2026-11-05
@@ -15,7 +15,7 @@ The data is provided as is, without any liability. We only collect and organise 
 
 ## Scope and limits
 
-Security deposit rules for residential leases in nine US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226, Minnesota Statutes § 504B.178, Iowa Code § 562A.12, Missouri Revised Statutes § 535.300 and Maine Revised Statutes Title 14 § 6033, 9 V.S.A. § 4461 (Vermont), Maryland Real Property § 8-203 and Michigan MCL 554.602 and 554.609. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
+Security deposit rules for residential leases in eleven US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226, Minnesota Statutes § 504B.178, Iowa Code § 562A.12, Missouri Revised Statutes § 535.300 and Maine Revised Statutes Title 14 § 6033, 9 V.S.A. § 4461 (Vermont), Maryland Real Property § 8-203 and Michigan MCL 554.602 and 554.609, Ohio Revised Code 5321.16 and Connecticut General Statutes § 47a-21. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
 
 ## Key facts
 
@@ -48,10 +48,17 @@ Security deposit rules for residential leases in nine US states: Arizona Revised
 | deposit | Maryland: deposit return and interest | Within 45 days after the tenancy ends the landlord must return the deposit with simple interest at the 1-year Treasury rate or 1.5% a year, whichever is greater, less damages rightfully withheld; interest applies to deposits of $50 or more held at least 6 months (Real Property § 8-203(e)). | [Maryland General Assembly](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false) |
 | deposit | Michigan: deposit cap | A security deposit may not exceed 1 1/2 months' rent (MCL 554.602). | [Michigan Legislature](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602) |
 | deposit | Michigan: notice of damages | Within 30 days after occupancy ends the landlord must mail an itemized notice of damages with estimated repair costs, accompanied by payment of the difference between damages claimed and the deposit (MCL 554.609). | [Michigan Legislature](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-609) |
+| deposit | Ohio: interest on deposits | The part of a deposit above $50 or one month's rent, whichever is greater, bears 5% annual interest, paid annually, if the tenant stays six months or more (ORC 5321.16(A)). | [Ohio Legislative Service Commission](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |
+| deposit | Ohio: deposit return | Deductions (past-due rent and damages) must be itemized in a written notice delivered with the amount due within 30 days after termination and return of possession; the tenant must give a forwarding address in writing (ORC 5321.16(B)). | [Ohio Legislative Service Commission](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |
+| deposit | Ohio: wrongful withholding | The tenant may recover the money due plus damages equal to the amount wrongfully withheld and reasonable attorney's fees (ORC 5321.16(C)). | [Ohio Legislative Service Commission](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |
+| deposit | Connecticut: deposit cap | A security deposit may not exceed two months' rent, or one month's rent for a tenant aged 62 or older (CGS § 47a-21(b)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
+| deposit | Connecticut: deposit return | Within 21 days after the tenancy ends, or 15 days after receiving the forwarding address if later, the landlord must return the deposit with accrued interest, or the balance with an itemized statement of damages; violation makes the landlord liable for twice the deposit (CGS § 47a-21(d)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
+| deposit | Connecticut: escrow | The landlord must immediately place deposits in an escrow account at a financial institution in Connecticut and tell the tenant in writing, within 30 days, the amount held and the institution's name and address (CGS § 47a-21(h)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
+| deposit | Connecticut: interest | Landlords must pay interest on deposits at no less than the yearly deposit index set by the Banking Commissioner, paid on each tenancy anniversary or credited to rent (CGS § 47a-21(i)). | [Connecticut General Assembly](https://www.cga.ct.gov/2026/sup/chap_831.htm) |
 
 ## English (US)
 
-**United States, more states.** Open data on residential security deposits in Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan, with a link to the official statute for each value.
+**United States, more states.** Open data on residential security deposits in Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut, with a link to the official statute for each value.
 
 *Data is provided as is, without any liability. We only organize what official sources publish. Check every value against the primary source.*
 
@@ -88,7 +95,7 @@ Details: see the table above and `sources.md`.
 
 ## Citation
 
-Gorok, L. (2026). *United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
+Gorok, L. (2026). *United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
 
 ## Attribution
 

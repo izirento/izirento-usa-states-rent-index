@@ -1,4 +1,4 @@
-# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: sources
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut: sources
 
 Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. Facts were read on 2026-11-05. Values are our own wording of the source; check the primary source before relying on a value.
 
@@ -31,9 +31,16 @@ Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. F
 | deposit | Maryland: deposit return and interest | Maryland General Assembly | [link](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false) |  |
 | deposit | Michigan: deposit cap | Michigan Legislature | [link](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602) |  |
 | deposit | Michigan: notice of damages | Michigan Legislature | [link](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-609) |  |
+| deposit | Ohio: interest on deposits | Ohio Legislative Service Commission | [link](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |  |
+| deposit | Ohio: deposit return | Ohio Legislative Service Commission | [link](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |  |
+| deposit | Ohio: wrongful withholding | Ohio Legislative Service Commission | [link](https://codes.ohio.gov/ohio-revised-code/section-5321.16) |  |
+| deposit | Connecticut: deposit cap | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
+| deposit | Connecticut: deposit return | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
+| deposit | Connecticut: escrow | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
+| deposit | Connecticut: interest | Connecticut General Assembly | [link](https://www.cga.ct.gov/2026/sup/chap_831.htm) |  |
 
 ## Notes on sources
 
-- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes, Maine Revisor of Statutes, Vermont General Assembly, Maryland General Assembly and Michigan Legislature, as read on the check date; later amendments are not included.
+- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes, Maine Revisor of Statutes, Vermont General Assembly, Maryland General Assembly, Michigan Legislature, Ohio Laws (codes.ohio.gov) and Connecticut General Assembly (General Statutes with 2026 Supplement), as read on the check date; later amendments are not included.
 
 Licence: CC BY 4.0 for the compilation, see `LICENSE.md`. This is information, not legal advice.
