@@ -1,9 +1,9 @@
-# United States: Arizona, Virginia and Minnesota: rent and landlord rules index 2026
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri and Maine: rent and landlord rules index 2026
 
-Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia and Minnesota: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
+Open, source-linked data on residential rent and landlord obligations in United States: Arizona, Virginia, Minnesota, Iowa, Missouri and Maine: deposits, rent increases, termination notice, lease terms and landlord duties, with a primary-source link for every value.
 
 - Version: 1.0
-- Facts checked: 2026-11-04
+- Facts checked: 2026-11-05
 - Author: Leonid Gorok
 - Project site: [izirento.com](https://izirento.com)
 - Related: [UK Rent & Landlord Obligations Index 2026](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index), [UK repository](https://github.com/izirento/izirento-uk-rent-index), [catalog of country repositories](https://github.com/izirento/izirento-rent-index-international)
@@ -15,7 +15,7 @@ The data is provided as is, without any liability. We only collect and organise 
 
 ## Scope and limits
 
-Security deposit rules for residential leases in three US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226 and Minnesota Statutes § 504B.178. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
+Security deposit rules for residential leases in six US states: Arizona Revised Statutes § 33-1321, Code of Virginia § 55.1-1226, Minnesota Statutes § 504B.178, Iowa Code § 562A.12, Missouri Revised Statutes § 535.300 and Maine Revised Statutes Title 14 § 6033. Companion to izirento-usa-rent-index (California, New York, Texas, Florida, Washington, Illinois). Local city or county rules are not covered.
 
 ## Key facts
 
@@ -30,10 +30,20 @@ Security deposit rules for residential leases in three US states: Arizona Revise
 | deposit | Minnesota: interest on deposit | A residential deposit bears simple noncompounded interest of one percent per year, payable to the tenant (Minn. Stat. § 504B.178, subd. 2). | [Minnesota Office of the Revisor of Statutes](https://www.revisor.mn.gov/statutes/cite/504B.178) |
 | deposit | Minnesota: deposit return | Within three weeks after the tenancy ends (five days after leaving a legally condemned building not due to the tenant), and after receiving the tenant's mailing address, the landlord must return the deposit with interest or give a written statement of the specific reasons for withholding (Minn. Stat. § 504B.178, subd. 3). | [Minnesota Office of the Revisor of Statutes](https://www.revisor.mn.gov/statutes/cite/504B.178) |
 | deposit | Minnesota: allowed deductions | The landlord may withhold only amounts reasonably necessary for unpaid rent or other sums due under an agreement, or to restore the premises to their condition at the start of the tenancy, ordinary wear and tear excepted; the landlord bears the burden of proof (Minn. Stat. § 504B.178, subd. 3). | [Minnesota Office of the Revisor of Statutes](https://www.revisor.mn.gov/statutes/cite/504B.178) |
+| deposit | Iowa: deposit cap | A landlord may not demand or receive a security deposit of more than two months' rent (Iowa Code § 562A.12(1)). | [Iowa Legislature](https://www.legis.iowa.gov/docs/code/562A.12.pdf) |
+| deposit | Iowa: holding the deposit | Deposits must be held in a federally insured bank, savings and loan association or credit union and not commingled with the landlord's personal funds; interest in the first five years belongs to the landlord (Iowa Code § 562A.12(2)). | [Iowa Legislature](https://www.legis.iowa.gov/docs/code/562A.12.pdf) |
+| deposit | Iowa: deposit return | Within thirty days after the tenancy ends and the tenant's mailing address is received, the landlord must return the deposit or give a written statement of the specific reasons for withholding; without it the landlord forfeits the right to withhold (Iowa Code § 562A.12(3)-(4)). | [Iowa Legislature](https://www.legis.iowa.gov/docs/code/562A.12.pdf) |
+| deposit | Iowa: bad-faith retention | Bad-faith retention exposes the landlord to punitive damages of up to twice the monthly rent in addition to actual damages (Iowa Code § 562A.12(7)). | [Iowa Legislature](https://www.legis.iowa.gov/docs/code/562A.12.pdf) |
+| deposit | Missouri: deposit cap | A landlord may not demand or receive a security deposit of more than two months' rent (RSMo § 535.300(1)). | [Missouri Revisor of Statutes](https://revisor.mo.gov/main/OneSection.aspx?section=535.300) |
+| deposit | Missouri: deposit return | Within thirty days after the tenancy ends the landlord must return the full deposit or give a written itemized list of damages with the balance (RSMo § 535.300(3)). | [Missouri Revisor of Statutes](https://revisor.mo.gov/main/OneSection.aspx?section=535.300) |
+| deposit | Missouri: move-out inspection | The landlord must give reasonable written notice of the date and time of the move-out inspection, and the tenant has the right to be present (RSMo § 535.300(5)). | [Missouri Revisor of Statutes](https://revisor.mo.gov/main/OneSection.aspx?section=535.300) |
+| deposit | Missouri: wrongful withholding | A tenant whose deposit is wrongfully withheld recovers twice the amount withheld (RSMo § 535.300(6)). | [Missouri Revisor of Statutes](https://revisor.mo.gov/main/OneSection.aspx?section=535.300) |
+| deposit | Maine: deposit return | The landlord must return the deposit or give a written itemized statement of reasons with the balance: for a written lease within the time stated in it, at most 30 days; for a tenancy at will within 21 days after it ends; normal wear and tear may not be charged (14 M.R.S. § 6033(1)-(2)). | [Maine Revisor of Statutes](https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html) |
+| deposit | Maine: late return | A landlord who misses the deadline forfeits the right to withhold any part of the deposit (14 M.R.S. § 6033(3)). | [Maine Revisor of Statutes](https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html) |
 
 ## English (US)
 
-**United States, more states.** Open data on residential security deposits in Arizona, Virginia and Minnesota, with a link to the official statute for each value.
+**United States, more states.** Open data on residential security deposits in Arizona, Virginia, Minnesota, Iowa, Missouri and Maine, with a link to the official statute for each value.
 
 *Data is provided as is, without any liability. We only organize what official sources publish. Check every value against the primary source.*
 
@@ -70,7 +80,7 @@ Details: see the table above and `sources.md`.
 
 ## Citation
 
-Gorok, L. (2026). *United States: Arizona, Virginia and Minnesota: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
+Gorok, L. (2026). *United States: Arizona, Virginia, Minnesota, Iowa, Missouri and Maine: rent and landlord rules index 2026* (Version 1.0) [Data set]. IziRento. https://github.com/izirento/izirento-usa-states-rent-index
 
 ## Attribution
 
