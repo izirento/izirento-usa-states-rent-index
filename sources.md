@@ -1,4 +1,4 @@
-# United States: Arizona, Virginia, Minnesota, Iowa, Missouri and Maine: sources
+# United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: sources
 
 Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. Facts were read on 2026-11-05. Values are our own wording of the source; check the primary source before relying on a value.
 
@@ -23,9 +23,17 @@ Every row of `usa_states_rent_landlord_rules_2026.csv` cites a primary source. F
 | deposit | Missouri: wrongful withholding | Missouri Revisor of Statutes | [link](https://revisor.mo.gov/main/OneSection.aspx?section=535.300) |  |
 | deposit | Maine: deposit return | Maine Revisor of Statutes | [link](https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html) |  |
 | deposit | Maine: late return | Maine Revisor of Statutes | [link](https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html) |  |
+| deposit | Vermont: allowed deductions | Vermont General Assembly | [link](https://legislature.vermont.gov/statutes/section/09/137/04461) |  |
+| deposit | Vermont: deposit return | Vermont General Assembly | [link](https://legislature.vermont.gov/statutes/section/09/137/04461) |  |
+| deposit | Vermont: late return | Vermont General Assembly | [link](https://legislature.vermont.gov/statutes/section/09/137/04461) |  |
+| deposit | Maryland: deposit cap | Maryland General Assembly | [link](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false) |  |
+| deposit | Maryland: holding the deposit | Maryland General Assembly | [link](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false) |  |
+| deposit | Maryland: deposit return and interest | Maryland General Assembly | [link](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false) |  |
+| deposit | Michigan: deposit cap | Michigan Legislature | [link](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602) |  |
+| deposit | Michigan: notice of damages | Michigan Legislature | [link](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-609) |  |
 
 ## Notes on sources
 
-- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes and Maine Revisor of Statutes, as read on the check date; later amendments are not included.
+- Official online statute texts of the Arizona Legislature, Virginia General Assembly (LIS), Minnesota Office of the Revisor of Statutes, Iowa Legislature (Iowa Code 2026), Missouri Revisor of Statutes, Maine Revisor of Statutes, Vermont General Assembly, Maryland General Assembly and Michigan Legislature, as read on the check date; later amendments are not included.
 
 Licence: CC BY 4.0 for the compilation, see `LICENSE.md`. This is information, not legal advice.

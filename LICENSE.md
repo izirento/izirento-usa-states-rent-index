@@ -14,12 +14,16 @@ Anyone reusing this dataset must credit IziRento (Leonid Gorok, https://izirento
    - Arizona State Legislature: https://www.azleg.gov/ars/33/01321.htm
    - Iowa Legislature: https://www.legis.iowa.gov/docs/code/562A.12.pdf
    - Maine Revisor of Statutes: https://www.mainelegislature.org/legis/statutes/14/title14sec6033.html
+   - Maryland General Assembly: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=8-203&enactments=false
+   - Michigan Legislature: https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602
+   - Michigan Legislature: https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-609
    - Minnesota Office of the Revisor of Statutes: https://www.revisor.mn.gov/statutes/cite/504B.178
    - Missouri Revisor of Statutes: https://revisor.mo.gov/main/OneSection.aspx?section=535.300
+   - Vermont General Assembly: https://legislature.vermont.gov/statutes/section/09/137/04461
    - Virginia General Assembly (LIS): https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/
 
 2. No logos, personal data or third-party artwork are included.
 
 ## Suggested citation
 
-United States: Arizona, Virginia, Minnesota, Iowa, Missouri and Maine: rent and landlord rules index 2026
+United States: Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan: rent and landlord rules index 2026
